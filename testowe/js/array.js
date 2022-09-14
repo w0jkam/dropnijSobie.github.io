@@ -1,7 +1,7 @@
 let tab = [
     {name:"Ania",chances:6,rarity:"common",photo:"./img/testowe/1.png"},
     {name:"Ania",chances:7,rarity:"common",photo:"./img/testowe/2.png"},
-    {name:"Ania",chances:6,rarity:"common",photo:"./img/testowe/3.png"},
+    {name:"Ania",chances:1,rarity:"common",photo:"./img/testowe/3.png"},
     {name:"Ania",chances:7,rarity:"common",photo:"./img/testowe/4.png"},
     {name:"Ania",chances:6,rarity:"common",photo:"./img/testowe/5.png"},
     {name:"Ania",chances:7,rarity:"common",photo:"./img/testowe/6.png"},
@@ -14,5 +14,6 @@ let tab = [
     {name:"Ania",chances:6,rarity:"common",photo:"./img/testowe/13.png"},
     {name:"Ania",chances:7,rarity:"common",photo:"./img/testowe/14.png"},
     {name:"Ania",chances:6,rarity:"common",photo:"./img/testowe/15.png"},
-    {name:"Ania",chances:7,rarity:"common",photo:"./img/testowe/16.png"}
+    {name:"Ania",chances:7,rarity:"common",photo:"./img/testowe/16.png"},
+    {name:"Ania",chances:5,rarity:"common",photo:"./img/testowe/17.png"}
 ]
