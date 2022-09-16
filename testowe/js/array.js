@@ -17,7 +17,7 @@ let tab = [
     {name:"Ania",chances:2,rarity:"common",photo:"./img/testowe/16.png"},
     {name:"Ania",chances:2,rarity:"common",photo:"./img/testowe/17.png"},
     {name:"Ania",chances:2,rarity:"common",photo:"./img/testowe/18.png"},
-    {name:"Ania",chances:2,rarity:"common",photo:"./img/testowe/19.png"},
+    {name:"Ania",chances:2000,rarity:"common",photo:"./img/testowe/19.png"},
     {name:"Ania",chances:2,rarity:"common",photo:"./img/testowe/20.png"},
     {name:"Ania",chances:2,rarity:"common",photo:"./img/testowe/21.png"},
     {name:"Ania",chances:2,rarity:"common",photo:"./img/testowe/22.png"},
